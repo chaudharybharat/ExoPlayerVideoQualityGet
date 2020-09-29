@@ -36,5 +36,10 @@ dependencies {
     androidTestImplementation 'androidx.test.ext:junit:1.1.2'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
     implementation 'com.google.android.exoplayer:exoplayer:r1.5.9'
+    //implementation 'com.google.android.exoplayer:exoplayer-hls:r2'
+   // implementation 'com.google.android.exoplayer:exoplayer:2.7.0'
+   // implementation "com.google.android.exoplayer:extension-rtmp:2.7.3"
+   // implementation "com.google.android.exoplayer:extension-rtmp:2.7.3"
+
 
 }
